@@ -5,7 +5,7 @@ from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.utils import executor
 
 # Your Telegram Bot Token
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+API_TOKEN = 8013983070:AAGdnHwfIUV7tr9GwPcrpfF6Ms56zCoYUHI
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
