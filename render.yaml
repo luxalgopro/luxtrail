@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: luxtrial
+    env: python
+    buildCommand: 'pip install -r requirements.txt'
+    startCommand: 'python3 bot.py'
